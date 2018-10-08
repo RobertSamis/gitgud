@@ -3,6 +3,6 @@ ASCII Tic - Tac - Toe
 Rob = X
 Beni = O
 
-| | | |
+|X| | |
 | |0| |
 | | | |
